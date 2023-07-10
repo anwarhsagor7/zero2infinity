@@ -1,0 +1,52 @@
+h1 {
+	background-color: darkcyan;
+	color: lightred;
+	font-family: Oswald;
+	text-align: center;
+	border-bottom: 1px solid limegreen;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	font-weight: bold;
+}
+
+nav ul {
+	list-style-type: none;
+	
+}
+
+nav li {
+	display: inline;
+	float: left;
+}
+
+nav a {
+	background-color: brown;
+	color: white;
+	text-decoration: none;
+	display: block;
+	width: 160px;
+	text-align: center;
+	padding: 10px 0;
+}
+
+marquee {
+	margin-top: 10px;
+	margin-bottom: 1px;
+}
+
+span {
+	background-color: red;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+	padding: 10px 0;
+}
+
+hr {
+	color: limegreen;
+	margin-bottom: 10px;
+}
+
+.section1, .section2, .map {
+	text-align: center;
+}
