@@ -29,6 +29,10 @@ nav a {
 	padding: 10px 0;
 }
 
+nav a:hover {
+	background-color: blue;
+}
+
 marquee {
 	margin-top: 10px;
 	margin-bottom: 1px;
